@@ -1,6 +1,6 @@
 # 2021-VRDL-HW1
 
-THis repository contains the code for homework 1 of 2021 Fall Selected Topics in Visual Recognition using Deep Learning.
+This repository contains the code for homework 1 of 2021 Fall Selected Topics in Visual Recognition using Deep Learning.
 
 ## Environment
 - Python 3
